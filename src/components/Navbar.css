@@ -1,0 +1,7 @@
+.custom-navbar {
+  background-color: rgba(255, 255, 255, 0.799); 
+  transition: background-color 0.3s ease;
+}
+.custom-navbar:hover {
+  background-color: rgba(240, 248, 255, 0);
+}
