@@ -93,3 +93,7 @@ MIT
 - [React](https://reactjs.org/) used library
 - [Vite](https://vitejs.dev/) fast build tool
 - [Bootstrap](https://getbootstrap.com/) responsive design framework
+
+
+## Notes
+Last changes was only changing the background image because of ethical reasons
