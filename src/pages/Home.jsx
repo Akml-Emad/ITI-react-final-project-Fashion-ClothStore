@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import bgImage from '../assets/images/bg.jpg'; 
+import bgImage from '../assets/images/backgroungImage.jpg'; 
 
 function BackgroundSection() {
   return (
